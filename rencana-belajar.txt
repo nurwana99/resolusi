@@ -3,6 +3,7 @@ rencana belajar kedepan
   * jquery
   * framework react
    - vue
+   - react
 - algoritma
 - fokus php
  * laravel
