@@ -2,6 +2,7 @@ rencana belajar kedepan
 - fokus javascript
   * jquery
   * framework react
+- algoritma
 - fokus php
 - buat wordpress
 - youtube
