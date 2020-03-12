@@ -2,10 +2,11 @@ rencana belajar kedepan
 - fokus javascript
   * jquery
   * framework react
-   - angular
+   - vue
    - react
 - algoritma
 - fokus php
  * laravel
 - buat wordpress
 - youtube
+- phyton
